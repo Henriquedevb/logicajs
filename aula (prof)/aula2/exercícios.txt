@@ -1,0 +1,31 @@
+//EXERCÍCIO 01
+//Escrever um algoritmo para receber um numero inteiro diferente de zero.
+//Seu algoritmo deve informar se o número é positivo ou negativo
+
+
+//EXERCÍCIO 02
+//Escrever um algoritmo para receber a idade de uma pessoa.
+//Seu algoritmo deve informar se a pessoa é maior ou menor de idade.
+
+
+//EXERCÍCIO 03
+//Escrever um algoritmo para receber um número inteiro qualquer
+//Seu algoritmo deve informar se o número é par ou ímpar.
+
+
+//EXERCÍCIO 04
+//Escrever um algoritmo para receber os termos 'a', 'b' e 'c' de uma 
+//equação do segundo grau da forma ax² + bx + c = 0
+//Crie uma variável chamada 'delta' (delta = b*b - 4*a*c)
+//Seu algoritmo deve informar se a equação possui raízes reais (delta >=0)
+//ou raízes imaginárias (delta < 0)
+
+//EXERCÍCIO 05
+//Escrever um algoritmo para receber uma nota de 0 a 10.
+//Seu algoritmo deve atribuir um conceito conforme o seguinte:
+//	0 até 1.9 II
+//  de 2 até 4.9 - MI
+//  de 5 até 6.9 - MM
+//  de 7 até 8.9 - MS
+//  de 9 até 10  - SS
+

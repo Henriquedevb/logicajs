@@ -1,0 +1,5 @@
+Antonio|aprovado
+Joaquim|aprovado
+Jose|reprovado
+Manuel|reprovado
+Maria|aprovado

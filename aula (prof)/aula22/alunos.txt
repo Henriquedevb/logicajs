@@ -1,0 +1,8 @@
+Nome|T1|L1|P1
+Carlos|10|9|8
+Maria|7|9|6
+Zoe|7|10|6
+Jose|5|7|4
+Joao|7|3|9
+Alice|5|7|10
+Isabel|10|8|7

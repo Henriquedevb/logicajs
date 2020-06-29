@@ -1,0 +1,3 @@
+Olá mundo!
+Boa noite!
+Vamos estudar programação!

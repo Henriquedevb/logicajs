@@ -1,0 +1,7 @@
+Altamira|109938
+Florianópolis|477798
+João Pessoa|720954
+Goiânia|1302000
+Brasília|2781000
+Rio de Janeiro|6320000
+São Paulo|12180000

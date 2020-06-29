@@ -1,0 +1,16 @@
+CRIAÇÃO
+TAMANHO
+TESTANDO SE É ARRAY
+FAZENDO ITERAÇÕES
+arr.forEach(function(item){
+    console.log(item);
+});
+
+inserindo no inicio (unshift)
+inserindo no final (push)
+removendo do início (shift)
+removendo do final (pop)
+removendo pela posição (splice(pos, indice)
+
+
+
